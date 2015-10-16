@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-023qwerfghjkl;
-=======
-123qwerfghjkl;
->>>>>>> IntProg/master
